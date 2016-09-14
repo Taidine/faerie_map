@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<courtOfSpiders>
+
+<hold id="daermadNaem">
+	<name>Daermad Naem</name>
+	<ruler rank="queen" spec="sidhe" id="lilith">Queen Lilith the Liar</ruler>
+	<res>Amandiago Afterhour</res>
+	<desc>The Forgotten Eden; Queen Lilith's Palace; The Throne of Spiders. Large by the standards of Faerie Realms, over fifty miles in diameter.  Crumbling ruins of an ancient city fades out to forest at the edges; buildings and statuary from antique epochs, including but not limited to ancient Rome, Babylon, Egypt, and China, found in clusters.  Some artifacts probably valuable, but don't be an idiot. City at the center covered in spiderwebs.  Palace proper consists of a series of gardens, horribly overgrown, thorns and spiderwebs choking out most flowers.  The gardens and forests are populated with equally dangerous fauna and flora - think monsters that haven't been seen outside of Faerie in millenia and dangerously delicious-looking fruit.</desc>
+	<aspect>Throne of Spiders</aspect>
+	<aspect>Forgotten monsters, forbidden fruit</aspect>
+	<aspect>Lost treasure</aspect>
+	<journey type="in" dest="changingMemories">Changing Memories</journey>
+	<journey type="in" dest="valeOfFangs">The Vale of Fangs</journey>
+	<journey type="in" dest="liarsHall">Liar's Hall</journey>
+	<img></img>
+</hold>
+
+<hold id="changingMemories">
+	<name>Changing Memories</name>
+	<ruler rank="duchess" spec="sidhe" id="daughterOfLilith">Duchess Lilith, Daughter of Lilith, the Merciful</ruler>
+	<desc>A sparse forest surrounding a tower hewn from a single massive, living redwood tree.  The trees in the forest surrounding are carved with tablets (full of words or empty) and bas reliefs.  The realm has a deleterious effect on the memories of people who pass through it and are not members of the Court of Spiders; visitors may find entire portions of their past as they perceived it rewritten by the magics of the place.  Although this extends to memories prior to entering the Realm, it also affects one's memories of paths taken, trail markers, etc. which, combined with the mutable nature of any Faerie Realm, make it virtually impossible to leave Changing Memories once entered.  Lilith uses it as a prison, and her daughter is the warden.</desc>
+	<aspect>You don't remember it like that</aspect>
+	<aspect>Here to stay</aspect>
+	<journey type="in" dest="daermadNaem">Daermad Naem</journey>
+	<journey type="in" dest="valeOfFangs">The Vale of Fangs</journey>
+	<journey type="in" dest="wellTrappedRoad">The Well-trapped Road</journey>
+	<journey type="in" dest="forestWithEightEyes">The Forest With Eight Eyes</journey>
+	<journey type="in" dest="carapaceGraveyard">Carapace Graveyard</journey>
+	<journey type="in" dest="fireflyHill">Firefly Hill</journey>
+	<journey type="in" dest="valleyWithTallGrass">The Valley With Tall Grass</journey>
+	<journey type="in" dest="whereMapsAreUseless">Where Maps Are Useless</journey>
+	<journey type="in" dest="libraryOfLies">The Library of Lies</journey>
+	<journey type="in" dest="overgrownGraveyard">Overgrown Graveyard</journey>
+	
+</hold>
+
+<hold id="birthplaceOfMonsters">
+	<name>Birthplace of Monsters</name>
+	<ruler rank="lady" spec="troll" id="idesKlaeber">Lady Ides Klaeber, Mother of the Thousand Trolls</ruler>
+	<res>Grendel</res>
+	<res>Orcas Go Leor</res>
+	<res>Echidna</res>
+	<desc>Cavernous, with walls of stalagmites, stone floors, still air, and no natural light.  If there is a ceiling, however, it is hidden in the darkness.  Full of egg sacks of various spiders and insects, other creatures carrying young.  Eggs have a tendency to hatch as travelers are passing, drawing in other, larger spiders and sundry monsters.</desc>
+	<aspect>Do not linger</aspect>
+	<aspect>Food has come</aspect>
+	<journey type="in" dest="batcave">The Bat Cave</journey>
+	<journey type="in" dest="wellTrappedRoad">The Well-trapped Road</journey>
+	<journey type="in" dest="creepingTenements">The Creeping Tenements</journey>
+	<journey type="in" dest="gossamerCavern">The Gossamer Cavern</journey>
+	<journey type="in" dest="silkFactory">The Silk Factory</journey>
+	<journey type="in" dest="carapaceGraveyard">Carapace Graveyard</journey>
+	<journey type="in" dest="overgrownGraveyard">Overgrown Graveyard</journey>
+	<journey type="in" dest="wormsBurrow">Worm's Burrow</journey>
+</hold>
+
+<hold id="silkFactory">
+	<name>The Silk Factory</name>
+	<ruler rank="lady" spec="elf" id="ariadne">Lady Ariadne</ruler>
+	<res>Klostis</res>
+	<desc>Appears to be an estate containing a farm set up for sericulture abutting an early industrial clothing mill.  Structures include a tenement for workers, Ariadne's manor house, a barn, a silo full of mulberry leaves.  The grounds are patrolled by golems that resemble scarecrows made of silk and stuffed with mulberry leaves.  Residents/workers are drow, most appearing to be between ten and thirteen years old.</desc>
+	<aspect>Time to get work done</aspect>
+	<aspect>Where riches are made</aspect>
+	<journey type="in" dest="creepingTenements">The Creeping Tenements</journey>
+	<journey type="in" dest="wellTrappedRoad">The Well-trapped Road</journey>
+	<journey type="in" dest="fireflyHill">Firefly Hill</journey>
+	<journey type="in" dest="birthplaceOfMonsters">Birthplace of Monsters</journey>
+	<journey type="in" dest="valleyWithTallGrass">The Valley With Tall Grass</journey>
+	<journey type="in" dest="sweetHive">Sweet Hive</journey>
+	<journey type="in" dest="wovenBridges">Woven Bridges</journey>
+</hold>
+	
+<hold id="wellTrappedRoad">
+	<name>The Well-trapped Road</name>
+	<ruler rank="duke" spec="sidhe" id="loki">Loki</ruler>
+	<res>Joutun</res>
+	<desc>A wide road with a strong barricade winding up, down, and around a mountainside.  Traveling along at a slow pace is usually safe.</desc>
+	<aspect>Don't run</aspect>
+	<aspect>Looks perfectly safe</aspect>
+	<journey type="in" dest="birthplaceOfMonsters">Birthplace Of Monsters</journey>
+	<journey type="in" dest="silkFactory">The Silk Factory</journey>
+	<journey type="in" dest="theForestWithEightEyes">The Forest With Eight Eyes</journey>
+	<journey type="in" dest="liarsHall">Liar's Hall</journey>
+	<journey type="in" dest="unsafeOasis">Unsafe Oasis</journey>
+	<journey type="in" dest="creepingTenements">Creeping Tenements</journey>
+	<journey type="in" dest="valleyWithTallGrass">Valley With Tall Grass</journey>
+	<journey type="in" dest="spaceBeneathTheFloor">The Space Beneath The Floor</journey>
+	<journey type="in" dest="libraryOfLies">Library of Lies</journey>
+	<journey type="in" dest="sweetHive">Sweet Hive</journey>
+</hold>
+
+<hold id="forestWithEightEyes">
+	<name>The Forest With Eight Eyes</name>
+	<ruler rank="lord" spec="dryad" id="kysas">Kysas</ruler>
+	<res>The Forest With Eight Eyes</res>
+	<desc>A dark, dense forest, some well-delineated paths running through it.  The trees are old, tangled, full of webs; swarms of tiny spiders will attack anyone who goes into the forest proper.  The entire forest is on the back of a spider larger than several city blocks, which crawls through a web suspended in otherwise empty space.</desc>
+	<aspect>Don't stray off the path</aspect>
+	<aspect>Dark wood</aspect>
+	<journey type="in" dest="changingMemories">Changing Memories</journey>
+	<journey type="in" dest="creepingTenements">The Creeping Tenements</journey>
+	<journey type="in" dest="gossamerCavern">The Gossamer Cavern</journey>
+	<journey type="in" dest="wovenBridges">Woven Bridges</journey>
+	<journey type="in" dest="whereMapsAreUseless">Where Maps Are Useless</journey>
+	<journey type="in" dest="wellTrappedRoad">The Well-trapped Road</journey>
+	<journey type="in" dest="venomStorm">Venom Storm</journey>
+	<journey type="in" dest="valeOfFangs">Vale of Fangs</journey>
+	<journey type="in" dest="wormsBurrow">Worm's Burrow</journey>
+</hold>
+
+<hold id="liarsHall">
+	<name>Liar's Hall</name>
+	<desc>The ruler of this Realm is unknown - most residents claim to be, including the talking mice.</desc>
+	<aspect>Truth is not welcomed here</aspect>
+	<aspect>Overloaded politics</aspect>
+	<aspect>A new liar every minute</aspect>
+	<journey type="out">Capitol Hill</journey>
+	<journey type="in" dest="daermadNaem">Daermad Naem</journey>
+	<journey type="in" dest="wellTrappedRoad">The Well-trapped Road</journey>
+	<journey type="in" dest="carapaceGraveyard">Carapace Graveyard</journey>
+	<journey type="in" dest="unsafeOasis">Unsafe Oasis</journey>
+	<journey type="in" dest="gossamerCavern">Gossamer Cavern</journey>
+	<journey type="in" dest="whereMapsAreUseless">Where Maps Are Useless</journey>
+	<journey type="in" dest="libraryOfLies">Library of Lies</journey>
+</hold>
+
+<hold id="venomStorm">
+	<name>Venom Storm</name>
+	<desc>A hurricane of caustic venom, spines, and barbs.  Not particularly navigable.</desc>
+	<aspect>Killing winds</aspect>
+	<aspect>Poison-proof monsters</aspect>
+	<journey type="in" dest="whereMapsAreUseless">Where Maps Are Useless</journey>
+	<journey type="in" dest="forestWithEightEyes">The Forest With Eight Eyes</journey>
+</hold>
+
+<hold id="valeOfFangs">
+	<name>Vale of Fangs</name>
+	<ruler rank="lord" spec="sidhe" id="saruman">Saruman</ruler>
+	<res>Sina</res>
+	<res>Gave</res>
+	<aspect>The trees are hungry</aspect>
+	<aspect>Monsters, monsters everywhere</aspect>
+	<journey type="in" dest="daermadNaem">Daermad Naem</journey>
+	<journey type="in" dest="changingMemories">Changing Memories</journey>
+	<journey type="in" dest="forestWithEightEyes">The Forest With Eight Eyes</journey>
+	<journey type="in" dest="fireflyHill">Firefly Hill</journey>
+	<journey type="in" dest="creepingTenements">Creeping Tenements</journey>
+	<journey type="in" dest="valleyWithTallGrass">The Valley With Tall Grass</journey>
+	<journey type="in" dest="wormsBurrow">Worm's Burrow</journey>
+</hold>
+
+<hold id="carapaceGraveyard">
+	<name>The Carapace Graveyard</name>
+	<ruler rank="lord" id="bealzebub">Lord Bealzebub</ruler>
+	<res>Noheim</res>
+	<aspect>Come here to die</aspect>
+	<aspect>Many places to hide</aspect>
+	<journey type="in" dest="changingMemories">Changing Memories</journey>
+	<journey type="in" dest="birthplaceOfMonsters">Birthplace Of Monsters</journey>
+	<journey type="in" dest="liarsHall">Liar's Hall</journey>
+	<journey type="in" dest="spaceBeneathTheFloors">The Space Beneath The Floor</journey>
+	<journey type="in" dest="overgrownGraveyard">Overgrown Graveyard</journey>
+	<journey type="in" dest="batcave">The Bat Cave</journey>
+	<journey type="in" dest="wormsBurrow">Worm's Burrow</journey>
+</hold>
+
+<hold id="unsafeOasis">
+	<name>The Unsafe Oasis</name>
+	<ruler rank="lord" spec="sidhe" id="solomon">Solomon</ruler>
+	<res>Bethseba</res>
+	<aspect>Oppressive, stifling heat</aspect>
+	<aspect>Do not bring water here</aspect>
+	<journey type="in" dest="wellTrappedRoad">The Well-trapped Road</journey>
+	<journey type="in" dest="liarsHall">Liar's Hall</journey>
+	<journey type="in" dest="sweetHive">Sweet Hive</journey>
+</hold>
+
+<hold id="fireflyHill">
+	<name>Firefly Hill</name>
+	<ruler spec="sidhe" id="johnAdams">John Adams</ruler>
+	<res>Larry Big</res>
+	<res>Lady Firefly</res>
+	<aspect>Peaceful and quiet</aspect>
+	<aspect>Dim, beautiful lighting</aspect>
+	<journey type="in" dest="changingMemories">Changing Memories</journey>
+	<journey type="in" dest="wormsBurrow">Worm's Burrow</journey>
+	<journey type="in" dest="silkFactory">The Silk Factory</journey>
+	<journey type="in" dest="valeOfFangs">Vale Of Fangs</journey>
+	<journey type="in" dest="valleyWithTallGrass">Valley With Tall Grass</journey>
+	<journey type="in" dest="sweetHive">Sweet Hive</journey>
+</hold>
+
+<hold id="gossamerCavern">
+	<name>Gossamer Cavern</name>
+	<ruler type="lord" spec="sidhe" id="makeda">Makeda</ruler>
+	<desc>A cavern with beautiful, luminescent webbing draped over every surface like scintillating fabric.  The webbing holds gemstones, precious metals, and small, intricate statues carved or wrought from equally expensive materials.  Although the beauty of the surroundings tends to have a lulling effect on visitors, the treasure is probably cursed.</desc>
+	<aspect>The treasure here is cursed</aspect>
+	<aspect>I feel safe</aspect>
+	<journey type="in" dest="forestWithEightEyes">The Forest With Eight Eyes</journey>
+	<journey type="in" dest="liarsHall">Liar's Hall</journey>
+	<journey type="in" dest="batcave">The Batcave</journey>
+	<journey type="in" dest="wovenBridges">Woven Bridges</journey>
+</hold>
+
+<hold id="batcave">
+	<name>The Batcave</name>
+	<ruler rank="lady" spec="leanansidhe" id="cleopatra">Lady Cleopatra</ruler>
+	<res>Sith</res>
+	<res>Bruce</res>
+	<aspect>Surprisingly well lit</aspect>
+	<aspect>Minions listening in</aspect>
+	<journey type="in" dest="birthplaceOfMonsters">Birthplace of Monsters</journey>
+	<journey type="in" dest="gossamerCavern">Gossamer Cavern</journey>
+</hold>
+
+<hold id="creepingTenements">
+	<name>The Creeping Tenements</name>
+	<ruler rank="lord" spec="goblin" id="rahab">Rahab</ruler>
+	<res>Meryem</res>
+	<desc>A number of run down buildings under a dingy sky, crumbling around the edges and covered in spiderwebs.  It's difficult to say how large it is, since the buildings move.</desc>
+	<aspect>Buildings move</aspect>
+	<aspect>Horrible hydra</aspect>
+	<journey type="in" dest="cityInTwilight">The City In Twilight</journey>
+	<journey type="in" dest="birthplaceOfMonsters">Birthplace of Monsters</journey>
+	<journey type="in" dest="wellTrappedRoad">The Well-trapped Road</journey>
+	<journey type="in" dest="forestWithEightEyes">The Forest With Eight Eyes</journey>
+	<journey type="in" dest="venomStorm">Venom Storm</journey>
+	<journey type="in" dest="valeOfFangs">Vale of Fangs</journey>
+	<journey type="in" dest="whereMapsAreUseless">Where Maps Are Useless</journey>
+	<journey type="in" dest="spaceBeneathTheFloor">The Space Beneath the Floor</journey>
+</hold>
+
+<hold id="valleyWithTallGrass">
+	<name>The Valley With Tall Grass</name>
+	<ruler spec="dryad" id="ashelle">Ashelle</ruler>
+	<aspect>There are things in the grass</aspect>
+	<aspect>Fast growing</aspect>
+	<journey type="in" dest="changingMemories">Changing Memories</journey>
+	<journey type="in" dest="silkFactory">The Silk Factory</journey>
+	<journey type="in" dest="wellTrappedRoad">The Well-trapped Road</journey>
+	<journey type="in" dest="carapaceGraveyard">The Carapace Graveyard</journey>
+	<journey type="in" dest="overgrownGraveyard">The Carapace Graveyard</journey>
+	<journey type="in" dest="fireflyHill">Firefly Hill</journey>
+	<journey type="in" dest="sweetHive">Sweet Hive</journey>
+</hold>
+
+<hold id="whereMapsAreUseless">
+	<name>Where Maps are Useless</name>
+	<ruler spec="sidhe" id="amerigo">Amerigo the Magnificent</ruler>
+	<aspect>Congratulations, you're lost now</aspect>
+	<aspect>Don't stand still</aspect>
+	<journey type="in" dest="changingMemories">Changing Memories</journey>
+	<journey type="in" dest="liarsHall">Liar's Hall</journey>
+	<journey type="in" dest="venomStorm">Venom Storm</journey>
+	<journey type="in" dest="creepingTenements">The Creeping Tenements</journey>
+	<journey type="in" dest="libraryOfLies">Library of Lies</journey>
+	<journey type="in" dest="wormsBurrow">Worm's Burrow</journey>
+	<journey type="in" dest="wovenBridges">Woven Bridges</journey>
+</hold>
+
+<hold id="spaceBeneathTheFloor">
+	<name>The Space Beneath The Floor</name>
+	<aspect>Above and below</aspect>
+	<aspect>You are not safe</aspect>
+	<journey type="in" dest="wellTrappedRoad">The Well-trapped Road</journey>
+	<journey type="in" dest="carapaceGraveyard">Carapace Graveyard</journey>
+	<journey type="in" dest="creepingTenements">The Creeping Tenements</journey>
+	<journey type="in" dest="wormsBurrow">Worm's Burrow</journey>
+</hold>
+
+<hold id="libraryOfLies">
+	<name>The Library of Lies</name>
+	<ruler spec="sidhe" id="socrates">Socrates</ruler>
+	<aspect>The information you want</aspect>
+	<aspect>Looks like someplace else</aspect>
+	<journey type="in" dest="changingMemories">Changing Memories</journey>
+	<journey type="in" dest="wellTrappedRoad">The Well-trapped Road</journey>
+	<journey type="in" dest="liarsHall">Liar's Hall</journey>
+	<journey type="in" dest="whereMapsAreUseless">Where Maps Are Useless</journey>
+</hold>
+
+<hold id="overgrownGraveyard">
+	<name>Overgrown Graveyard</name>
+	<ruler spec="sidhe" id="frostBlood">Frost Blood</ruler>
+	<aspect>Spectres are watching you</aspect>
+	<aspect>Feel a chill?</aspect>
+	<journey type="in" dest="changingMemories">Changing Memories</journey>
+	<journey type="in" dest="birthplaceOfMonsters">Birthplace of Monsters</journey>
+	<journey type="in" dest="carapaceGraveyard">Carapace Graveyard</journey>
+	<journey type="in" dest="valleyWithTallGrass">The Valley With Tall Grass</journey>
+	<journey type="in" dest="wormsBurrow">Worm's Burrow</journey>
+</hold>
+
+<hold id="wormsBurrow">
+	<name>The Worm's Burrow</name>
+	<ruler rank="lord" spec="wormfae" id="fenrir">Lord Fenrir</ruler>
+	<aspect>Dead end</aspect>
+	<aspect>Can't get out the way you came</aspect>
+	<journey type="in" dest="birthplaceOfMonsters">Birthplace of Monsters</journey>
+	<journey type="in" dest="forestWithEightEyes">The Forest With Eight Eyes</journey>
+	<journey type="in" dest="valeOfFangs">The Vale of Fangs</journey>
+	<journey type="in" dest="carapaceGraveyard">Carapace Graveyard</journey>
+	<journey type="in" dest="fireflyHill">Firefly Hill</journey>
+	<journey type="in" dest="whereMapsAreUseless">Where Maps Are Useless</journey>
+	<journey type="in" dest="spaceBeneathTheFloor">The Space Beneath the Floor</journey>
+	<journey type="in" dest="overgrownGraveyard">Overgrown Graveyard</journey>
+</hold>
+
+<hold id="sweetHive">
+	<name>Sweet Hive</name>
+	<ruler spec="sidhe" id="honey">Honey</ruler>
+	<aspect>Buzzzzz</aspect>
+	<aspect>All are welcome here</aspect>
+	<journey type="in" dest="silkFactory">The Silk Factory</journey>
+	<journey type="in" dest="wellTrappedRoad">The Well-trapped Road</journey>
+	<journey type="in" dest="unsafeOasis">The Unsafe Oasis</journey>
+	<journey type="in" dest="fireflyHill">Firefly Hill</journey>
+	<journey type="in" dest="valleyWithTallGrass">The Valley With Tall Grass</journey>
+	<journey type="in" dest="wormsBurrow">Worm's Burrow</journey>
+</hold>
+
+<hold id="wovenBridges">
+	<name>The Woven Bridges</name>
+	<ruler rank="lady" spec="spiderfae" id="arachne">Lady Arachne</ruler>
+	<res>Nikolas</res>
+	<aspect>A long, long way down</aspect>
+	<aspect>Perilous footing</aspect>
+	<journey type="in" dest="birthplaceOfMonsters">Birthplace of Monsters</journey>
+	<journey type="in" dest="silkFactory">The Silk Factory</journey>
+	<journey type="in" dest="forestWithEightEyes">The Forest With Eight Eyes</journey>
+	<journey type="in" dest="gossamerCavern">Gossamer Cavern</journey>
+	<journey type="in" dest="whereMapsAreUseless">Where Maps Are Useless</journey>
+	<journey type="in" dest="sweetHive">Sweet Hive</journey>
+</hold>
+
+<fae id="lilith">
+	<name>Queen Lilith the Liar</name>
+	<spec>sidhe</spec>
+	<rank>Queen of Spiders</rank>
+	<title>The Liar</title>
+	<desc>Pale, dark-haired, very beautiful.  Always has a scheme or ten going.  Greatest desire seems to be to increase her personal power and the power of her Court.  Capable of lying.  May be capable of thaumaturgy as well as Spider Court magic.</desc>
+	<aspect>The Wrong People Know What I Can Do</aspect>
+	<aspect>Endless ambition</aspect>
+	<aspect>Monte Carlo scheming</aspect>
+	<hold id="daermadNaem"></hold>
+</fae>
+
+<fae id="daughterOfLilith">
+	<name>Lilith, Daughter of Lilith</name>
+	<spec>sidhe</spec>
+	<rank>Duchess</rank>
+	<title>The Merciful</title>
+	<aspect>Violence is ineffective</aspect>
+	<hold id="changingMemories"></hold>
+</fae>
+
+<fae id="idesKlaeber">
+	<name>Ides Klaeber</name>
+	<spec>troll</spec>
+	<rank>Lady</rank>
+	<title>Mother of the Thousand Trolls</title>
+	<aspect>Immortally obese</aspect>
+	<aspect>Beloved by her children</aspect>
+	<hold id="birthplaceOfMonsters"></hold>
+</fae>
+
+<fae id="grendel">
+	<name>Sir Grendel</name>
+	<spec>troll</spec>
+	<rank>Knight</rank>
+	<aspect>Misshapen monstrosity</aspect>
+	<hold id="birthplaceOfMonsters"></hold>
+</fae>
+
+<fae id="orcasGoLeor">
+	<name>Orcas Go Leor</name>
+	<spec>spider hive</spec>
+	<desc>Either a pile of horrible spiders in various shapes and sizes or a busty blonde woman with hair lighter than her skin and a paucity of clothes.  Hangs with Nike.</desc>
+	<hold id="birthplaceOfMonsters"></hold>
+</fae>
+
+<fae id="echidna">
+	<name>Echidna</name>
+	<spec>naga</spec>
+	<aspect>To me, my children</aspect>
+	<hold id="birthplaceOfMonsters"></hold>
+</fae>
+
+<fae id="ariadne">
+	<name>Ariadne</name>
+	<rank>Lady</rank>
+	<spec>drow</spec>
+	<aspect>Master silkcrafter</aspect>
+	<aspect>Technology changes</aspect>
+	<aspect>Ears where they shouldn't be</aspect>
+	<hold id="silkFactory"></hold>
+</fae>
+
+<fae id="klostis">
+	<name>Klostis</name>
+	<rank>Ariadne's assistant</rank>
+	<spec>elf</spec>
+	<aspect>Weaver of lies and alliances</aspect>
+	<aspect>Just another spider in the World Wide Web</aspect>
+	<hold id="silkFactory"></hold>
+</fae>
+
+<fae id="loki">
+	<name>Loki</name>
+	<rank>Duke</rank>
+	<spec>sidhe</spec>
+	<aspect>It's easy to lie when you believe everything you say is true</aspect>
+	<aspect>Even my glamours have glamours</aspect>
+	<hold id="wellTrappedRoad"></hold>
+</fae>
+
+<fae id="joutun">
+	<name>Joutun</name>
+	<spec>ogre</spec>
+	<desc>The one that likes to throw rocks down on unsuspecting travelers on the Road.  Not very bright.</desc>
+	<hold id="wellTrappedRoad"></hold>
+</fae>
+
+<fae id="kysas">
+	<name>Kysas</name>
+	<spec>dryad</spec>
+	<rank>Lord</rank>
+	<aspect>Fat, lazy dryad</aspect>
+	<aspect>The forest can handle it</aspect>
+	<hold id="forestWithEightEyes"></hold>
+</fae>
+
+<fae id="theForestWithEightEyes">
+	<name>The Forest With Eight Eyes</name>
+	<spec>Giant Spider</spec>
+	<aspect>Spider bigger than most city blocks</aspect>
+	<hold id="forestWithEightEyes"></hold>
+</fae>
+
+<fae id="saruman">
+	<name>Saruman</name>
+	<rank>Lord</rank>
+	<desc>By all reports, sadistic bastard.  Also, he looks nothing like Christopher Lee.</desc>
+	<hold id="valeOfFangs"></hold>
+</fae>
+
+<fae id="sina">
+	<name>Sina</name>
+	<aspect>Spider courtesan</aspect>
+	<aspect>Addictive venom</aspect>
+	<hold id="valeOfFangs"></hold>
+</fae>
+
+<fae id="gave">
+	<name>Sir Gave</name>
+	<spec>troll</spec>
+	<rank>Knight</rank>
+	<aspect>Troll Slaver</aspect>
+	<aspect>Excalibur, Sword of the Slaver</aspect>
+	<hold id="valeOfFangs"></hold>
+</fae>
+
+<fae id="bealzebub">
+	<name>Bealzebub</name>
+	<rank>Lord</rank>
+	<spec>Spider fae</spec>
+	<aspect>Lonely, hateful spider lord of the Carapace Graveyard</aspect>
+	<aspect>"Kill them all"</aspect>
+	<hold id="carapaceGraveyard"></hold>
+</fae>
+
+<fae id="noheim">
+	<name>Noheim</name>
+	<spec>Spider fae</spec>
+	<aspect>Fey spider hateweaver</aspect>
+	<aspect>Classic bully</aspect>
+	<hold id="carapaceGraveyard"></hold>
+</fae>
+
+<fae id="solomon">
+	<name>Solomon</name>
+	<rank>Lord</rank>
+	<spec>sidhe</spec>
+	<aspect>Wise sidhe with a holy sword</aspect>
+	<aspect>Your opinion is invalid</aspect>
+	<hold id="unsafeOasis"></hold>
+</fae>
+
+<fae id="bethseba">
+	<name>Bethseba</name>
+	<aspect>First and greatest of Solomon's wives</aspect>
+	<aspect>Beautiful beyond reason</aspect>
+	<hold id="unsafeOasis"></hold>
+</fae>
+
+<fae id="johnAdams">
+	<name>John Adams</name>
+	<rank>Lord</rank>
+	<spec>sidhe</spec>
+	<aspect>Politically minded ruler of firefly hill</aspect>
+	<aspect>Only logical</aspect>
+	<hold id="fireflyHill"></hold>
+</fae>
+
+<fae id="larryBig">
+	<name>Larry Big</name>
+	<spec>ogre</spec>
+	<aspect>Particularly dim ogre</aspect>
+	<aspect>I done broke it</aspect>
+	<hold id="fireflyHill"></hold>
+</fae>
+
+<fae id="ladyFirefly">
+	<name>Lady Firefly</name>
+	<spec>pixie</spec>
+	<aspect>Pixie conductor</aspect>
+	<aspect>Calm, cool, collected</aspect>
+	<hold id="fireflyHill"></hold>
+</fae>
+
+<fae id="makeda">
+	<name>Makeda</name>
+	<spec>sidhe</spec>
+	<aspect>Disgustingly rich</aspect>
+	<aspect>Wishes do come true</aspect>
+	<hold id="gossamerCaverns"></hold>
+</fae>
+
+<fae id="nike">
+	<name>Nike</name>
+	<spec>sidhe</spec>
+	<rank>Lilith's Number Two Assassin</rank>
+	<desc>Not actually the winged goddess of victory.  Nike is a particularly sadistic assassin with a couple of other quirks; for one thing, she tends to show up and claim guest right during her missions, and she's a perfect guest until she kills her victim.  For another thing, although she likes to drag out her kills, she takes great pride in never leaving a mess behind.  Has been known to work with the spider hive Orcas Go Leor.</desc>
+	<hold id="gossamerCaverns"></hold>
+</fae>
+
+<fae id="cleopatra">
+	<name>Cleopatra</name>
+	<spec>leanansidhe</spec>
+	<rank>Lady</rank>
+	<aspect>Irresistable lady of the Batcave</aspect>
+	<aspect>Once claimed, hers forever</aspect>
+	<aspect>Afraid of the dark</aspect>
+	<hold id="batcave"></hold>
+</fae>
+
+<fae id="sith">
+	<name>Sith</name>
+	<spec>cat fae</spec>
+	<desc>Not to be confused with the Cat Sith, Queen Mab's cat.</desc>
+	<aspect>Spoiled faerie cat</aspect>
+	<aspect>Not as scary as he thinks he is</aspect>
+	<hold id="batcave"></hold>
+</fae>
+
+<fae id="bruce">
+	<name>Bruce</name>
+	<aspect>Jerkass batman meme</aspect>
+	<aspect>I should be the night</aspect>
+	<hold id="batcave"></hold>
+</fae>
+
+<fae id="rahab">
+	<name>Rahab</name>
+	<spec>goblin</spec>
+	<aspect>Treacherous, selfish goblin noble</aspect>
+	<aspect>Ugly all the way down</aspect>
+	<hold id="creepingTenements"></hold>
+</fae>
+
+<fae id="meryem">
+	<name>Meryem</name>
+	<spec>changeling</spec>
+	<aspect>Much-abused Morracan witch</aspect>
+	<aspect>What is deserved</aspect>
+	<aspect>Better at getting cheated</aspect>
+	<hold id="creepingTenements"></hold>
+</fae>
+
+<fae id="ashelle">
+	<name>Ashelle</name>
+	<spec>dryad</spec>
+	<aspect>Dryad pyromaniac</aspect>
+	<aspect>Sounds dangerous, I'm in</aspect>
+	<hold id="valleyWithTallGrass"></hold>
+</fae>
+
+<fae id="amerigo">
+	<name>Amerigo</name>
+	<title>The Magnificent</title>
+	<spec>sidhe</spec>
+	<rank>Lord</rank>
+	<aspect>Sidhe cartographer</aspect>
+	<aspect>Not where he wants to be</aspect>
+	<hold id="whereMapsAreUseless"></hold>
+</fae>
+
+<fae id="socrates">
+	<name>Socrates</name>
+	<spec>sidhe</spec>
+	<rank>Lord</rank>
+	<aspect>Ask a question</aspect>
+	<aspect>I want you to know</aspect>
+	<hold id="libraryOfLies"></hold>
+</fae>
+
+<fae id="frostBlood">
+	<name>Frost Blood</name>
+	<rank>Lady</rank>
+	<spec>sidhe</spec>
+	<desc>A recent convert from the Winter Court, still settling in, Frost Blood rides to hunt with a gathering of spectres and occasionally her neighbor from the Carapace Graveyard, Bealzebub</desc>
+	<aspect>Tonight we ride</aspect>
+	<aspect>Maiden most fair</aspect>
+	<hold id="overgrownGraveyard"></hold>
+</fae>
+
+<fae id="fenrir">
+	<name>Fenrir</name>
+	<title>The Hungry</title>
+	<spec>Worm fae</spec>
+	<rank>Lord</rank>
+	<aspect>Swallow you whole</aspect>
+	<hold id="wormsBurrow"></hold>
+</fae>
+
+<fae id="honey">
+	<name>Honey</name>
+	<spec>sidhe</spec>
+	<rank>Lady</rank>
+	<aspect>Sweet lies</aspect>
+	<aspect>Lyramera, the Seasong Pipe</aspect>
+	<hold id="sweetHive"></hold>
+</fae>
+
+<fae id="arachne">
+	<name>Arachne</name>
+	<spec>Spider fae</spec>
+	<rank>Duchess</rank>
+	<aspect>Humor is golden</aspect>
+	<hold id="wovenBridges"></hold>
+</fae>
+
+<fae id="arachne">
+	<name>Nikolas</name>
+	<spec>Spider fae</spec>
+	<rank>Son of the Duchess</rank>
+	<hold id="wovenBridges"></hold>
+</fae>
+
+<fae id="max">
+	<name>Max</name>
+	<spec>Worm fae</spec>
+	<aspect>Prove you're the best</aspect>
+</fae>
+
+<fae id="limiBig">
+	<name>Limi Big</name>
+	<spec>ogre</spec>
+	<rank>Cavalier</rank>
+	<aspect>Smarter than the average ogre</aspect>
+</fae>
+
+<fae id="xet">
+	<name>Xet</name>
+	<rank>Chancellor</rank>
+	<aspect>Many-segmented secretary of spiders</aspect>
+	<aspect>Spider court secrets</aspect>
+</fae>
+
+<fae id="megara">
+	<name>Megara</name>
+	<spec>sidhe</spec>
+	<rank>Spymaster</rank>
+	<aspect>Easily forgotten</aspect>
+	<aspect>No appreciation for what I must do</aspect>
+</fae>
+
+<fae id="abiokt">
+	<name>Abiokt</name>
+	<aspect>Faerie spider ninja</aspect>
+	<aspect>Damn good veils</aspect>
+</fae>
+
+<fae id="pandora">
+	<name>Pandora</name>
+	<spec>elf</spec>
+	<aspect>Innocent elven bard</aspect>
+	<aspect>No one wants to harm me</aspect>
+</fae>
+
+<fae id="mabOfSpiders">
+	<name>Mab</name>
+	<spec>sidhe</spec>
+	<aspect>Lilith's Ex-lover</aspect>
+	<aspect>You are boring</aspect>
+</fae>
+
+<fae id="adamClay">
+	<name>Adam Clay</name>
+	<spec>troll</spec>
+	<rank>Sheriff</rank>
+	<aspect>Monstrous troll</aspect>
+	<aspect>Smell out the lies</aspect>
+</fae>
+
+<fae id="eveClay">
+	<name>Eve Clay</name>
+	<rank>Knight</rank>
+	<spec>troll</spec>
+	<aspect>Hideous troll knight</aspect>
+	<aspect>Faithless wife of Adam</aspect>
+	<aspect>Zallox, the poisoned blade</aspect>
+</fae>
+
+
+</courtOfSpiders>
